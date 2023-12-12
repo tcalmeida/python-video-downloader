@@ -5,4 +5,3 @@ Download Youtube videos to watch offline.
 1. Clone repository
 2. Install dependencies `pip install -r requirements.txt`
 3. Run app `python main.py`
-4. Past youtube video url
